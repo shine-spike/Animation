@@ -1,10 +1,6 @@
-Sample Module Repository
+Learning OpenGL
 ========================
 
-This simple project is an example repo for Python projects.
+This repo contains my OpenGL code as I learn the specification.
 
-`Learn more <http://www.kennethreitz.org/essays/repository-structure-and-python>`_.
-
----------------
-
-If you want to learn more about ``setup.py`` files, check out `this repository <https://github.com/kennethreitz/setup.py>`_.
+I'll be following along this book https://learnopengl.com/book/book_pdf.pdf
